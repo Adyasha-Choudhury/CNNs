@@ -7,6 +7,6 @@
 
 This is where Eval-AI comes in. Automating paper evaluation, with just the answer key provided by the teacher and the student's answer copy! The project aims to not only evaluate MCQ type questions, but also subjective! 
 
-* Trying.ipynb - for subjective answer evaluation
+* Trying.ipynb - for subjective answer evaluation - **Using llama-3.3-70b-versatile as of now. I'm working on fine-tuning it!**
 * Teacher_copy - for MCQs - teacher's copy
 * Answer_copy - for MCQs - student's copy
