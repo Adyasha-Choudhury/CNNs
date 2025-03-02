@@ -7,3 +7,6 @@ This was a project which started off as a university credits requirement, and no
 
 This is where Eval-AI comes in. Automating paper evaluation, with just the answer key provided by the teacher and the student's answer copy! The project aims to not only evaluate MCQ type questions, but also subjective! 
 
+*Trying.ipynb - for subjective answer evaluation
+*Teacher_copy - for MCQs - teacher's copy
+*Answer_copy - for MCQs - student's copy
