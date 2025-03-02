@@ -1,7 +1,7 @@
-# starting_off
-## Eval-AI : The smart AI paper evaluator
 
-This was a project which started off as a university credits requirement, and now I'm on my way to make this better and better! 
+# Eval-AI : The smart AI paper evaluator
+
+## This was a project which started off as a university credits requirement, and now I'm on my way to make this better and better! 
 
 *School and University teachers spend about **30- 40% of their time** on evaluation of homeworks, assignments and exam papers.*
 
